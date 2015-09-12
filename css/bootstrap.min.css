@@ -9,7 +9,17 @@
  }
 
  #programmingType {
-	max-height : 90px;
+	min-height : 150px;
+	max-height : 150px;
+	padding: 10px;
+ }
+
+  #programmingType1 {
+	min-height : 150px;
+	max-height : 150px;
+	padding-right: 20%;
+	padding-left: 20%;
+
  }
 
  #featureImage {

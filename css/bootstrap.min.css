@@ -31,3 +31,11 @@
 	position: relative;
 
  }
+
+  #carouselCaption1 {
+	top: 5px;
+	position: relative;
+	z-index: 10;
+	right: -50%;
+	background: transparent;
+ }
